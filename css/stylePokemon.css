@@ -1,0 +1,87 @@
+body{
+    background-color: #acacab;
+}
+#myUL{
+    position:absolute;    
+    right:0;
+        
+}
+.dropdown-header{
+    height:30px;
+}
+.carousel-inner{
+height:700px;
+}
+
+.imagesize{
+  width:80%;
+  height:250px;
+    
+}
+.col-md-4 > p{
+    text-align:left;
+    font-weight:500;
+    margin-top:20px;
+    text-align: center;
+}
+.h1about{
+    margin:0 auto;
+    width:300px;
+    margin-left:650px;
+    font-family: 'Galada', cursive;
+    font-size: 60px;
+    text-decoration: none;
+    
+}
+.col-md-5 > img{
+    width:100%;
+    margin-top: 30px;
+    border-radius: 10px
+}
+.col-md-7 > p{
+    margin:0 auto;
+    width:600px;
+    margin-top:90px;
+    color:black;
+    font-weight: 400;
+}
+.pull-right{
+    float:right;
+    color:black;
+}
+.pull-right > a{
+    text-decoration: none;
+    color:gray;
+}
+footer{
+    background-color:#666567;
+    height: 80px;
+}
+footer > p{
+    margin-bottom:0;
+    margin-left:20px;
+}
+footer > a{
+    color:black;
+    
+}
+.navbar-brand{
+  font-family: 'Galada', cursive;
+    font-size: 25px;
+}
+.navbar{
+    height:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
